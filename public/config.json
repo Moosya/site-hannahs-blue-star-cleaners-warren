@@ -1,0 +1,27 @@
+{
+  "shopName": "Hannah's Blue Star Cleaners",
+  "tagline": "Dry cleaning and custom alterations in Warren",
+  "phone": "(908) 755-5353",
+  "address": "41 Mountain Blvd #E3, Warren, NJ 07059",
+  "hours": "Call or visit for hours",
+  "photoUrl": "/hero.jpg",
+  "services": [
+    {
+      "name": "Dry cleaning",
+      "description": "Professional dry cleaning for suits, dresses, and everyday garments."
+    },
+    {
+      "name": "Laundry & press",
+      "description": "Wash, dry, and press service when you need clothes back ready to wear."
+    },
+    {
+      "name": "Neighborhood location",
+      "description": "Call or stop by — hours and turnaround by phone."
+    }
+  ],
+  "email": "troupe.javelin-7w@icloud.com",
+  "demoId": "hannahs-blue-star-cleaners-warren",
+  "ownerName": "us",
+  "ownerPhone": "(908) 286-8650",
+  "ownerEmail": "troupe.javelin-7w@icloud.com"
+}
