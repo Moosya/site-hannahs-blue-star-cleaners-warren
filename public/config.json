@@ -4,7 +4,7 @@
   "phone": "(908) 755-5353",
   "address": "41 Mountain Blvd #E3, Warren, NJ 07059",
   "hours": "Call or visit for hours",
-  "photoUrl": "/hero.jpg",
+  "photoUrl": "hero.jpg",
   "services": [
     {
       "name": "Dry cleaning",
